@@ -1,0 +1,10 @@
+﻿body_type,Body_description
+W,Wagon
+V,Van
+S,SUV / Crossover
+D,Sedan
+T,Pickup Truck
+M,Minivan
+H,Hatchback
+C,Coupe
+O,Convertible
